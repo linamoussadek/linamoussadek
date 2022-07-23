@@ -7,4 +7,5 @@ linamoussadek/linamoussadek is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=linamoussadek)](https://github.com/linamoussadek/github-readme-stats)
+[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=linamoussadek&theme=synthwave)](https://github.com/linamoussadek/github-readme-stats)
+
