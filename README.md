@@ -4,8 +4,8 @@
 
 <br/>
 
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=linamoussadek&theme=synthwave)](https://github.com/linamoussadek/github-readme-stats)
+[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=linamoussadek&theme=radical)](https://github.com/linamoussadek/github-readme-stats)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linamoussadek&layout=compact&theme=synthwave)](https://github.com/linamoussadek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linamoussadek&layout=compact&theme=radical)](https://github.com/linamoussadek/github-readme-stats)
