@@ -9,3 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=linamoussadek&theme=synthwave)](https://github.com/linamoussadek/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linamoussadek)](https://github.com/linamoussadek/github-readme-stats)
