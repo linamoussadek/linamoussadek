@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lina. 
 - 🌱 I’m working on a few things here.
-- 📫 Are you a recruiter? I could be the right candidate. Visit my [Linkedin](https://www.linkedin.com/in/lina-moussadek/).
+- 📫 Are you a recruiter? I could be the right candidate! Visit my [Linkedin](https://www.linkedin.com/in/lina-moussadek/).
 
 <br/>
 
